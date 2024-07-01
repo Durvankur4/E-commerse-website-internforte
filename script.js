@@ -16,9 +16,7 @@ const filterCards = e => {
 
 }
 
-const addHref = e => {
-    e.innerHtml('a')
-}
+
 
 
 
